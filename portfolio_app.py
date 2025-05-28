@@ -134,5 +134,3 @@ with col2:
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 st.markdown("<center><small style='color:#A0AEC0;'>Made with ❤️ using Streamlit</small></center>", unsafe_allow_html=True)
-
-streamlit run portfolio_app.py
